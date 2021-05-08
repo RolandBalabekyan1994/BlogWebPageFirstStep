@@ -1,0 +1,2 @@
+# BlogWebPageFirstStep
+Django lesson
